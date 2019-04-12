@@ -1,2 +1,2 @@
 # myweather
-My Weather Spring Boot Application
+My Weather Spring Boot/Docker Demo Application
