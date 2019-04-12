@@ -14,6 +14,11 @@ apply plugin: 'io.spring.dependency-management'
 group 'myweather'
 version '1.0-SNAPSHOT'
 
+bootJar {
+    baseName = 'myweather'
+    version =  '1.0'
+}
+
 repositories {
     mavenCentral()
 }
